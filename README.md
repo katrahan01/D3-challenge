@@ -36,26 +36,6 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 * Note: Please use LiveServer in Visual Studio Code, just like we do in class. 
 
-- - -
-
-
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Creation of a **new** repository on GitHub called `D3-challenge` (note the kebab-case). Do not add to an already existing repo.
-
-* Completion of all steps in the core assignment
-
-* Coherency of scatter plot (labels, ticks)
-
-* Visual attraction
-
-* Professionalism
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-**Good luck!**
 
 ### Copyright
 
